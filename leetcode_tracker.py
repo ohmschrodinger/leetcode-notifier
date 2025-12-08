@@ -4,7 +4,7 @@ import smtplib
 import os
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 import time
 
 class LeetCodeTracker:
@@ -89,9 +89,12 @@ class LeetCodeTracker:
             # Create email body
             body = f"Hello!\n\n{self.username} has solved new LeetCode problems:\n\n"
             
+            # IST timezone (UTC+5:30)
+            ist = timezone(timedelta(hours=5, minutes=30))
+            
             for submission in new_submissions:
-                timestamp = datetime.fromtimestamp(int(submission['timestamp']))
-                formatted_time = timestamp.strftime("%Y-%m-%d %H:%M:%S")
+                timestamp = datetime.fromtimestamp(int(submission['timestamp']), tz=ist)
+                formatted_time = timestamp.strftime("%Y-%m-%d %H:%M:%S IST")
                 body += f"✅ Problem: {submission['title']}\n"
                 body += f"   Solved at: {formatted_time}\n"
                 body += f"   Link: https://leetcode.com/problems/{submission['titleSlug']}/\n\n"
