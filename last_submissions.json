@@ -1,5 +1,11 @@
 [
   {
+    "id": "1927617761",
+    "title": "Contains Duplicate",
+    "titleSlug": "contains-duplicate",
+    "timestamp": "1771778094"
+  },
+  {
     "id": "1883529827",
     "title": "Baseball Game",
     "titleSlug": "baseball-game",
@@ -94,23 +100,5 @@
     "title": "Employees Earning More Than Their Managers",
     "titleSlug": "employees-earning-more-than-their-managers",
     "timestamp": "1740252832"
-  },
-  {
-    "id": "1548457861",
-    "title": "Nth Highest Salary",
-    "titleSlug": "nth-highest-salary",
-    "timestamp": "1739964779"
-  },
-  {
-    "id": "1548452608",
-    "title": "Second Highest Salary",
-    "titleSlug": "second-highest-salary",
-    "timestamp": "1739964313"
-  },
-  {
-    "id": "1548447795",
-    "title": "Combine Two Tables",
-    "titleSlug": "combine-two-tables",
-    "timestamp": "1739963875"
   }
 ]
