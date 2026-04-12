@@ -1,5 +1,11 @@
 [
   {
+    "id": "1976407418",
+    "title": "Binary Tree Paths",
+    "titleSlug": "binary-tree-paths",
+    "timestamp": "1775998943"
+  },
+  {
     "id": "1973198668",
     "title": "Binary Tree Postorder Traversal",
     "titleSlug": "binary-tree-postorder-traversal",
@@ -112,11 +118,5 @@
     "title": "Flatten Binary Tree to Linked List",
     "titleSlug": "flatten-binary-tree-to-linked-list",
     "timestamp": "1769514183"
-  },
-  {
-    "id": "1897215527",
-    "title": "Univalued Binary Tree",
-    "titleSlug": "univalued-binary-tree",
-    "timestamp": "1769407038"
   }
 ]
