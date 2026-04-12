@@ -1,5 +1,11 @@
 [
   {
+    "id": "1976464158",
+    "title": "Smallest String Starting From Leaf",
+    "titleSlug": "smallest-string-starting-from-leaf",
+    "timestamp": "1776003493"
+  },
+  {
     "id": "1976407418",
     "title": "Binary Tree Paths",
     "titleSlug": "binary-tree-paths",
@@ -112,11 +118,5 @@
     "title": "Balanced Binary Tree",
     "titleSlug": "balanced-binary-tree",
     "timestamp": "1769514734"
-  },
-  {
-    "id": "1898519942",
-    "title": "Flatten Binary Tree to Linked List",
-    "titleSlug": "flatten-binary-tree-to-linked-list",
-    "timestamp": "1769514183"
   }
 ]
