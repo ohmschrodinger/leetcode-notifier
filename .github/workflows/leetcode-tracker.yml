@@ -3,7 +3,7 @@ name: LeetCode Tracker
 on:
   schedule:
     # Run every 15 minutes
-    - cron: '*/15 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch: # Allows manual triggering
 
 jobs:
