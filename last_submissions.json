@@ -1,5 +1,11 @@
 [
   {
+    "id": "2004357929",
+    "title": "Find Minimum in Rotated Sorted Array II",
+    "titleSlug": "find-minimum-in-rotated-sorted-array-ii",
+    "timestamp": "1778914597"
+  },
+  {
     "id": "2003591738",
     "title": "Number of Islands",
     "titleSlug": "number-of-islands",
@@ -112,11 +118,5 @@
     "title": "Smallest String Starting From Leaf",
     "titleSlug": "smallest-string-starting-from-leaf",
     "timestamp": "1776003493"
-  },
-  {
-    "id": "1976407418",
-    "title": "Binary Tree Paths",
-    "titleSlug": "binary-tree-paths",
-    "timestamp": "1775998943"
   }
 ]
