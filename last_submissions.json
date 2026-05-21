@@ -1,5 +1,11 @@
 [
   {
+    "id": "2009356082",
+    "title": "Binary Tree Paths",
+    "titleSlug": "binary-tree-paths",
+    "timestamp": "1779392595"
+  },
+  {
     "id": "2008222997",
     "title": "Find Closest Person",
     "titleSlug": "find-closest-person",
@@ -112,11 +118,5 @@
     "title": "Rotating the Box",
     "titleSlug": "rotating-the-box",
     "timestamp": "1778419888"
-  },
-  {
-    "id": "1999727233",
-    "title": "Arranging Coins",
-    "titleSlug": "arranging-coins",
-    "timestamp": "1778416525"
   }
 ]
