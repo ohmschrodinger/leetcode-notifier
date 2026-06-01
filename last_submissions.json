@@ -1,5 +1,11 @@
 [
   {
+    "id": "2018730342",
+    "title": "Minimum Cost of Buying Candies With Discount",
+    "titleSlug": "minimum-cost-of-buying-candies-with-discount",
+    "timestamp": "1780291702"
+  },
+  {
     "id": "2018027244",
     "title": "Destroying Asteroids",
     "titleSlug": "destroying-asteroids",
@@ -112,11 +118,5 @@
     "title": "Compute Alternating Sum",
     "titleSlug": "compute-alternating-sum",
     "timestamp": "1778491516"
-  },
-  {
-    "id": "2000379512",
-    "title": "Alternating Digit Sum",
-    "titleSlug": "alternating-digit-sum",
-    "timestamp": "1778491384"
   }
 ]
