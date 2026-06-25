@@ -1,5 +1,11 @@
 [
   {
+    "id": "2045322662",
+    "title": "Simplify Path",
+    "titleSlug": "simplify-path",
+    "timestamp": "1782364867"
+  },
+  {
     "id": "2044258058",
     "title": "Letter Combinations of a Phone Number",
     "titleSlug": "letter-combinations-of-a-phone-number",
@@ -112,11 +118,5 @@
     "title": "Reorder List",
     "titleSlug": "reorder-list",
     "timestamp": "1782113598"
-  },
-  {
-    "id": "2038582788",
-    "title": "Odd Even Linked List",
-    "titleSlug": "odd-even-linked-list",
-    "timestamp": "1781862751"
   }
 ]
